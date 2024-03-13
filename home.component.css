@@ -1,0 +1,15 @@
+aside{
+    margin-top: 30px;
+}
+aside .hobby{
+    background-color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+aside .hobby ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 15px;
+
+}
